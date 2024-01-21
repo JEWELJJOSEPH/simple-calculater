@@ -1,2 +1,2 @@
 # simple-calculater
-Simple calculated in python
+Simple calculator in python
